@@ -4,6 +4,7 @@ Install the dependencies and run the project
 npm install
 npm start
 ```
+Will try to implement likes & Comments  feature in JavaScript 
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
